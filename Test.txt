@@ -1,2 +1,2 @@
 this is a test.
-some people like tests, and others do not
+some people like tests and others do not
