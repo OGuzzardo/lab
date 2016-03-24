@@ -1,2 +1,6 @@
 this is a test.
+<<<<<<< 3cfe4618628b9c55461600704d583b31b38433d0
 some people like tests and others do not
+=======
+some people like tests. and others do not
+>>>>>>> change again
